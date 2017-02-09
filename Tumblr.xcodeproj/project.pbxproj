@@ -16,7 +16,6 @@
 		93E474091E4A7AE60049899B /* PhotoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E474081E4A7AE60049899B /* PhotoCell.swift */; };
 		93E4740B1E4AC1E40049899B /* PhotoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E4740A1E4AC1E40049899B /* PhotoDetailsViewController.swift */; };
 		93E4740F1E4BDDDF0049899B /* InfiniteScrollActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E4740E1E4BDDDF0049899B /* InfiniteScrollActivityView.swift */; };
-		93E474111E4BE9B50049899B /* FullScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93E474101E4BE9B50049899B /* FullScreenViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +30,6 @@
 		93E474081E4A7AE60049899B /* PhotoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoCell.swift; sourceTree = "<group>"; };
 		93E4740A1E4AC1E40049899B /* PhotoDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoDetailsViewController.swift; sourceTree = "<group>"; };
 		93E4740E1E4BDDDF0049899B /* InfiniteScrollActivityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InfiniteScrollActivityView.swift; sourceTree = "<group>"; };
-		93E474101E4BE9B50049899B /* FullScreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FullScreenViewController.swift; sourceTree = "<group>"; };
 		B35E6F9F6FD3B83C999D3494 /* Pods-Tumblr.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tumblr.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tumblr/Pods-Tumblr.release.xcconfig"; sourceTree = "<group>"; };
 		FBF8D6E545FE7B1276E8E7D6 /* Pods-Tumblr.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tumblr.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tumblr/Pods-Tumblr.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,7 +101,6 @@
 			children = (
 				93E474051E4A763E0049899B /* PhotosViewController.swift */,
 				93E4740A1E4AC1E40049899B /* PhotoDetailsViewController.swift */,
-				93E474101E4BE9B50049899B /* FullScreenViewController.swift */,
 			);
 			name = "View Controller";
 			sourceTree = "<group>";
@@ -245,7 +242,6 @@
 				93E473F11E4A6EB20049899B /* AppDelegate.swift in Sources */,
 				93E474091E4A7AE60049899B /* PhotoCell.swift in Sources */,
 				93E474061E4A763E0049899B /* PhotosViewController.swift in Sources */,
-				93E474111E4BE9B50049899B /* FullScreenViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
