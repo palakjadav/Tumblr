@@ -33,6 +33,20 @@
             </objects>
             <point key="canvasLocation" x="1212.5" y="136.5"/>
         </scene>
+        <!--View Controller-->
+        <scene sceneID="90b-eW-PCy">
+            <objects>
+                <viewController id="gRI-sz-Oit" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3mY-GO-ELW">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="opQ-Z4-mJq" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1709" y="137"/>
+        </scene>
         <!--Photos View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
